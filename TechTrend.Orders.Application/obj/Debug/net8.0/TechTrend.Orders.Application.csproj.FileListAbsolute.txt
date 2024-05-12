@@ -1,0 +1,17 @@
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/bin/Debug/net8.0/TechTrend.Orders.Application.deps.json
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/bin/Debug/net8.0/TechTrend.Orders.Application.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/bin/Debug/net8.0/TechTrend.Orders.Application.pdb
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/bin/Debug/net8.0/TechTrend.Orders.Domain.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/bin/Debug/net8.0/TechTrend.Orders.Infrastructure.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/bin/Debug/net8.0/TechTrend.Orders.Infrastructure.pdb
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/bin/Debug/net8.0/TechTrend.Orders.Domain.pdb
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/TechTrend.Orders.Application.csproj.AssemblyReference.cache
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/TechTrend.Orders.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/TechTrend.Orders.Application.AssemblyInfoInputs.cache
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/TechTrend.Orders.Application.AssemblyInfo.cs
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/TechTrend.Orders.Application.csproj.CoreCompileInputs.cache
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/TechTren.F5836A03.Up2Date
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/TechTrend.Orders.Application.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/refint/TechTrend.Orders.Application.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/TechTrend.Orders.Application.pdb
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Application/obj/Debug/net8.0/ref/TechTrend.Orders.Application.dll

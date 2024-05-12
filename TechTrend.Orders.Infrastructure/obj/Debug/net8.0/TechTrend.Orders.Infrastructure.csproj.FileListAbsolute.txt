@@ -1,0 +1,15 @@
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/bin/Debug/net8.0/TechTrend.Orders.Infrastructure.deps.json
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/bin/Debug/net8.0/TechTrend.Orders.Infrastructure.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/bin/Debug/net8.0/TechTrend.Orders.Infrastructure.pdb
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/bin/Debug/net8.0/TechTrend.Orders.Domain.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/bin/Debug/net8.0/TechTrend.Orders.Domain.pdb
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/TechTrend.Orders.Infrastructure.csproj.AssemblyReference.cache
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/TechTrend.Orders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/TechTrend.Orders.Infrastructure.AssemblyInfoInputs.cache
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/TechTrend.Orders.Infrastructure.AssemblyInfo.cs
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/TechTrend.Orders.Infrastructure.csproj.CoreCompileInputs.cache
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/TechTren.F98AAAD3.Up2Date
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/TechTrend.Orders.Infrastructure.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/refint/TechTrend.Orders.Infrastructure.dll
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/TechTrend.Orders.Infrastructure.pdb
+/home/david/software_projects/TechTrend.Orders/TechTrend.Orders.Infrastructure/obj/Debug/net8.0/ref/TechTrend.Orders.Infrastructure.dll

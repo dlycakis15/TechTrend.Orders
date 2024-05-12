@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/TechTrend.Orders.API.props" />
+</Project>
